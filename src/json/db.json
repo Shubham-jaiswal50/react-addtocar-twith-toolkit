@@ -1,0 +1,47 @@
+{
+    "cars": [
+        {
+          "id": "1",
+          "image":" https://www.platiindia.com/images/FitmentImages/large/649d47187464a-1688028952.jpg",
+          "name": "TOYOTA",
+          "From": "bhopal",
+          "To": "indore",
+          "km": "220 km",
+          "price":"5000"
+
+
+         
+        },
+        {
+          "id": "2",
+          "image":"https://dwarkatravels.in/wp-content/uploads/2016/10/TATA-Safari.jpg",
+          "name": "Tata Safri",
+          "From": "bhopal",
+          "To": "jabalpur",
+          "km": "330 km",
+          "price":"8000"
+
+
+                 }, {
+                  "id": "3",
+                  "image":" https://dwarkatravels.in/wp-content/uploads/2016/10/Ford-Figo.jpg",
+                  "name": "Frod",
+                  "From": "bhopal",
+                  "To": "panchmari",
+                  "km": "220 km",
+                  "price":"6000"
+        
+        
+                         }, {
+                          "id": "4",
+                          "image":"https://dwarkatravels.in/wp-content/uploads/2016/10/Hyundai-Accent.jpg",
+                          "name": "Hunyadi Accent",
+                          "From": "bhopal",
+                          "To": "khargon",
+                          "km": "280km",
+                          "price":"12000"
+                
+                
+                                 }
+      ]
+}
